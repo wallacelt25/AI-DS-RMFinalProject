@@ -1,0 +1,1501 @@
+Order_ID,Product_ID,Order_Quantity,Priority,Product_Type,Location,Weight,Size
+101,P001,9,High,Sports,A-5,9.78,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+103,P003,16,Low,Clothing,B-2,7.51,Large
+104,P004,5,High,Home Goods,C-1,8.39,Small
+105,P005,5,Low,Electronics,A-6,7.47,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+107,P007,6,Low,Clothing,A-3,5.29,Medium
+108,P008,20,Low,Home Goods,A-5,8.55,Medium
+109,P009,12,Medium,Home Goods,B-1,2.85,Medium
+1010,P010,17,Low,Electronics,A-2,9.71,Medium
+1011,P011,5,High,Electronics,C-2,7.4,Small
+1012,P012,20,High,Clothing,B-2,2.8,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1014,P014,9,High,Home Goods,C-3,5.77,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1016,P016,16,High,Home Goods,A-6,7.91,Large
+1017,P017,20,High,Electronics,A-6,1.79,Large
+1018,P018,23,Low,Home Goods,B-3,5.55,Medium
+1019,P019,9,High,Sports,A-1,9.39,Small
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+1021,P021,9,High,Sports,A-6,6.34,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+1023,P023,21,Medium,Sports,C-6,5.09,Small
+1024,P024,18,Medium,Clothing,B-6,5.94,Small
+1025,P025,24,Low,Sports,B-2,5.94,Medium
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+1027,P027,16,Low,Sports,C-3,7.16,Small
+1028,P028,20,Medium,Electronics,C-2,1.79,Small
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+1031,P031,8,Low,Sports,B-2,2.05,Large
+1032,P032,5,High,Sports,C-1,5.26,Large
+1033,P033,9,Low,Clothing,A-5,6.45,Large
+1034,P034,14,Low,Sports,B-1,8.15,Medium
+1035,P035,9,Medium,Clothing,B-1,1.96,Small
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1037,P037,6,High,Clothing,B-5,7.71,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1039,P039,14,Medium,Sports,B-3,9.4,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1044,P044,8,Medium,Home Goods,A-3,7.49,Small
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1047,P047,6,High,Electronics,A-2,8.45,Medium
+1048,P048,21,Medium,Electronics,C-3,7.75,Medium
+1049,P049,24,Low,Electronics,A-5,8.2,Large
+1050,P050,16,Medium,Electronics,B-4,8.43,Large
+1051,P051,22,Medium,Sports,B-5,2.68,Medium
+1052,P052,7,High,Electronics,B-5,3.12,Medium
+1053,P053,5,High,Sports,B-1,6.7,Small
+1054,P054,5,High,Sports,A-1,9.17,Large
+1055,P055,23,Medium,Electronics,B-6,3.85,Small
+1056,P056,15,Low,Electronics,B-1,6.29,Large
+1057,P057,9,High,Clothing,B-2,7.15,Large
+1058,P058,16,High,Home Goods,A-3,5.07,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+1060,P060,5,High,Clothing,A-1,9.1,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Medium
+1062,P062,12,Low,Home Goods,C-5,5.86,Large
+1063,P063,14,High,Sports,A-2,4.95,Medium
+1064,P064,15,High,Electronics,A-1,6.2,Medium
+1065,P065,16,Medium,Home Goods,C-5,4.2,Large
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+1068,P068,18,High,Clothing,C-6,1.6,Large
+1069,P069,6,Medium,Sports,B-5,3.06,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1071,P071,22,Low,Clothing,C-3,4.88,Medium
+1072,P072,7,Medium,Home Goods,C-3,4.0,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1077,P077,23,Low,Electronics,C-3,5.46,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1079,P079,11,High,Electronics,C-5,6.16,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1081,P081,22,Medium,Sports,A-6,7.77,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+1083,P083,15,High,Electronics,A-1,8.01,Small
+1084,P084,8,Low,Home Goods,A-4,2.29,Small
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1087,P087,9,High,Home Goods,A-5,5.45,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+1090,P090,21,Medium,Home Goods,B-1,5.83,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1093,P093,8,High,Electronics,B-4,6.44,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Large
+1096,P096,11,Medium,Electronics,A-6,5.38,Large
+1097,P097,9,High,Home Goods,A-1,4.68,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+10100,P100,17,High,Electronics,B-6,6.39,Small
+10101,P101,7,High,Sports,C-4,6.09,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+10104,P104,21,High,Sports,B-1,8.44,Small
+10105,P105,24,Medium,Electronics,C-3,9.63,Medium
+10106,P106,20,High,Electronics,C-5,4.08,Small
+10107,P107,17,Low,Home Goods,C-6,3.05,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+10110,P110,8,Low,Home Goods,C-6,6.53,Large
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1029,P029,20,High,Sports,A-6,2.25,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1085,P085,8,High,Electronics,A-4,2.84,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1044,P044,8,Medium,Home Goods,A-3,7.49,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1085,P085,8,High,Electronics,A-4,2.84,Medium
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1030,P030,11,Low,Clothing,A-4,1.02,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+10102,P102,13,High,Home Goods,B-3,7.45,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1020,P020,18,Low,Clothing,C-5,3.89,Medium
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1086,P086,14,Low,Clothing,B-3,7.43,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+101,P001,9,High,Sports,A-5,9.78,Large
+105,P005,5,Low,Electronics,A-6,7.47,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1035,P035,9,Medium,Clothing,B-1,1.96,Medium
+1062,P062,12,Low,Home Goods,C-5,5.86,Small
+1036,P036,8,Low,Sports,A-2,8.66,Small
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1089,P089,7,High,Clothing,C-6,1.93,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1048,P048,21,Medium,Electronics,C-3,7.75,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1096,P096,11,Medium,Electronics,A-6,5.38,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1030,P030,11,Low,Clothing,A-4,1.02,Small
+101,P001,9,High,Sports,A-5,9.78,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+109,P009,12,Medium,Home Goods,B-1,2.85,Medium
+1050,P050,16,Medium,Electronics,B-4,8.43,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1044,P044,8,Medium,Home Goods,A-3,7.49,Small
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1022,P022,19,High,Sports,B-3,4.32,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1021,P021,9,High,Sports,A-6,6.34,Medium
+1019,P019,9,High,Sports,A-1,9.39,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1034,P034,14,Low,Sports,B-1,8.15,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Small
+1085,P085,8,High,Electronics,A-4,2.84,Medium
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1019,P019,9,High,Sports,A-1,9.39,Large
+1031,P031,8,Low,Sports,B-2,2.05,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+101,P001,9,High,Sports,A-5,9.78,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1036,P036,8,Low,Sports,A-2,8.66,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+10101,P101,7,High,Sports,C-4,6.09,Large
+1052,P052,7,High,Electronics,B-5,3.12,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1022,P022,19,High,Sports,B-3,4.32,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1019,P019,9,High,Sports,A-1,9.39,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+10107,P107,17,Low,Home Goods,C-6,3.05,Medium
+1022,P022,19,High,Sports,B-3,4.32,Large
+109,P009,12,Medium,Home Goods,B-1,2.85,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Small
+1053,P053,5,High,Sports,B-1,6.7,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1034,P034,14,Low,Sports,B-1,8.15,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1058,P058,16,High,Home Goods,A-3,5.07,Small
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+101,P001,9,High,Sports,A-5,9.78,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+10106,P106,20,High,Electronics,C-5,4.08,Medium
+1055,P055,23,Medium,Electronics,B-6,3.85,Small
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1052,P052,7,High,Electronics,B-5,3.12,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1086,P086,14,Low,Clothing,B-3,7.43,Small
+1021,P021,9,High,Sports,A-6,6.34,Large
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1024,P024,18,Medium,Clothing,B-6,5.94,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1085,P085,8,High,Electronics,A-4,2.84,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Large
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+10100,P100,17,High,Electronics,B-6,6.39,Large
+1053,P053,5,High,Sports,B-1,6.7,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1029,P029,20,High,Sports,A-6,2.25,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+102,P002,13,High,Electronics,A-5,5.42,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+1039,P039,14,Medium,Sports,B-3,9.4,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1019,P019,9,High,Sports,A-1,9.39,Large
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+102,P002,13,High,Electronics,A-5,5.42,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1032,P032,5,High,Sports,C-1,5.26,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1083,P083,15,High,Electronics,A-1,8.01,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1097,P097,9,High,Home Goods,A-1,4.68,Large
+1054,P054,5,High,Sports,A-1,9.17,Small
+1064,P064,15,High,Electronics,A-1,6.2,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+1039,P039,14,Medium,Sports,B-3,9.4,Small
+1040,P040,23,High,Electronics,C-3,9.92,Large
+10100,P100,17,High,Electronics,B-6,6.39,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+101,P001,9,High,Sports,A-5,9.78,Small
+1093,P093,8,High,Electronics,B-4,6.44,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+10105,P105,24,Medium,Electronics,C-3,9.63,Small
+1022,P022,19,High,Sports,B-3,4.32,Large
+1045,P045,20,High,Clothing,C-3,1.43,Large
+101,P001,9,High,Sports,A-5,9.78,Small
+104,P004,5,High,Home Goods,C-1,8.39,Small
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1039,P039,14,Medium,Sports,B-3,9.4,Small
+1028,P028,20,Medium,Electronics,C-2,1.79,Small
+1053,P053,5,High,Sports,B-1,6.7,Large
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Medium
+1088,P088,13,Low,Electronics,B-4,7.79,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1029,P029,20,High,Sports,A-6,2.25,Small
+10100,P100,17,High,Electronics,B-6,6.39,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1019,P019,9,High,Sports,A-1,9.39,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+1087,P087,9,High,Home Goods,A-5,5.45,Small
+107,P007,6,Low,Clothing,A-3,5.29,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1052,P052,7,High,Electronics,B-5,3.12,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1026,P026,9,Medium,Sports,B-6,2.82,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1032,P032,5,High,Sports,C-1,5.26,Small
+1063,P063,14,High,Sports,A-2,4.95,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1028,P028,20,Medium,Electronics,C-2,1.79,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1044,P044,8,Medium,Home Goods,A-3,7.49,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+10100,P100,17,High,Electronics,B-6,6.39,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Large
+1054,P054,5,High,Sports,A-1,9.17,Large
+1084,P084,8,Low,Home Goods,A-4,2.29,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Small
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+1033,P033,9,Low,Clothing,A-5,6.45,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+109,P009,12,Medium,Home Goods,B-1,2.85,Small
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Medium
+1014,P014,9,High,Home Goods,C-3,5.77,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1020,P020,18,Low,Clothing,C-5,3.89,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1055,P055,23,Medium,Electronics,B-6,3.85,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1087,P087,9,High,Home Goods,A-5,5.45,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1097,P097,9,High,Home Goods,A-1,4.68,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1050,P050,16,Medium,Electronics,B-4,8.43,Small
+1032,P032,5,High,Sports,C-1,5.26,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+1032,P032,5,High,Sports,C-1,5.26,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1083,P083,15,High,Electronics,A-1,8.01,Small
+1048,P048,21,Medium,Electronics,C-3,7.75,Large
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Large
+1067,P067,16,Low,Clothing,B-2,5.79,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+104,P004,5,High,Home Goods,C-1,8.39,Small
+1045,P045,20,High,Clothing,C-3,1.43,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1033,P033,9,Low,Clothing,A-5,6.45,Small
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1029,P029,20,High,Sports,A-6,2.25,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+10101,P101,7,High,Sports,C-4,6.09,Small
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1032,P032,5,High,Sports,C-1,5.26,Large
+1032,P032,5,High,Sports,C-1,5.26,Large
+105,P005,5,Low,Electronics,A-6,7.47,Large
+1095,P095,21,High,Clothing,C-3,5.86,Small
+1039,P039,14,Medium,Sports,B-3,9.4,Small
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1050,P050,16,Medium,Electronics,B-4,8.43,Medium
+1058,P058,16,High,Home Goods,A-3,5.07,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Large
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1058,P058,16,High,Home Goods,A-3,5.07,Large
+1033,P033,9,Low,Clothing,A-5,6.45,Small
+1020,P020,18,Low,Clothing,C-5,3.89,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1021,P021,9,High,Sports,A-6,6.34,Small
+107,P007,6,Low,Clothing,A-3,5.29,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1063,P063,14,High,Sports,A-2,4.95,Large
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1065,P065,16,Medium,Home Goods,C-5,4.2,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1061,P061,5,Low,Clothing,B-6,6.62,Large
+1032,P032,5,High,Sports,C-1,5.26,Small
+1096,P096,11,Medium,Electronics,A-6,5.38,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1027,P027,16,Low,Sports,C-3,7.16,Medium
+1057,P057,9,High,Clothing,B-2,7.15,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1050,P050,16,Medium,Electronics,B-4,8.43,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1097,P097,9,High,Home Goods,A-1,4.68,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1050,P050,16,Medium,Electronics,B-4,8.43,Medium
+1027,P027,16,Low,Sports,C-3,7.16,Medium
+1032,P032,5,High,Sports,C-1,5.26,Small
+1033,P033,9,Low,Clothing,A-5,6.45,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1051,P051,22,Medium,Sports,B-5,2.68,Small
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1052,P052,7,High,Electronics,B-5,3.12,Medium
+1098,P098,16,Medium,Home Goods,A-5,7.95,Medium
+1068,P068,18,High,Clothing,C-6,1.6,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+1061,P061,5,Low,Clothing,B-6,6.62,Medium
+1029,P029,20,High,Sports,A-6,2.25,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1099,P099,21,Medium,Electronics,B-5,1.11,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Small
+10100,P100,17,High,Electronics,B-6,6.39,Small
+1029,P029,20,High,Sports,A-6,2.25,Large
+1063,P063,14,High,Sports,A-2,4.95,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1068,P068,18,High,Clothing,C-6,1.6,Medium
+1089,P089,7,High,Clothing,C-6,1.93,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Small
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1029,P029,20,High,Sports,A-6,2.25,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1086,P086,14,Low,Clothing,B-3,7.43,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1057,P057,9,High,Clothing,B-2,7.15,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1081,P081,22,Medium,Sports,A-6,7.77,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+101,P001,9,High,Sports,A-5,9.78,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Small
+1093,P093,8,High,Electronics,B-4,6.44,Large
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1075,P075,14,Low,Home Goods,A-2,2.5,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1022,P022,19,High,Sports,B-3,4.32,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1061,P061,5,Low,Clothing,B-6,6.62,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Large
+1058,P058,16,High,Home Goods,A-3,5.07,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+1055,P055,23,Medium,Electronics,B-6,3.85,Large
+1057,P057,9,High,Clothing,B-2,7.15,Small
+1062,P062,12,Low,Home Goods,C-5,5.86,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1031,P031,8,Low,Sports,B-2,2.05,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1029,P029,20,High,Sports,A-6,2.25,Large
+1063,P063,14,High,Sports,A-2,4.95,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1019,P019,9,High,Sports,A-1,9.39,Large
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1018,P018,23,Low,Home Goods,B-3,5.55,Large
+1030,P030,11,Low,Clothing,A-4,1.02,Small
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1018,P018,23,Low,Home Goods,B-3,5.55,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1032,P032,5,High,Sports,C-1,5.26,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Large
+1032,P032,5,High,Sports,C-1,5.26,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1087,P087,9,High,Home Goods,A-5,5.45,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1041,P041,5,High,Electronics,C-1,2.85,Large
+10100,P100,17,High,Electronics,B-6,6.39,Medium
+1024,P024,18,Medium,Clothing,B-6,5.94,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+109,P009,12,Medium,Home Goods,B-1,2.85,Medium
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1027,P027,16,Low,Sports,C-3,7.16,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1048,P048,21,Medium,Electronics,C-3,7.75,Small
+108,P008,20,Low,Home Goods,A-5,8.55,Medium
+1064,P064,15,High,Electronics,A-1,6.2,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1022,P022,19,High,Sports,B-3,4.32,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1032,P032,5,High,Sports,C-1,5.26,Small
+1051,P051,22,Medium,Sports,B-5,2.68,Medium
+1027,P027,16,Low,Sports,C-3,7.16,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1075,P075,14,Low,Home Goods,A-2,2.5,Large
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1055,P055,23,Medium,Electronics,B-6,3.85,Small
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Medium
+1056,P056,15,Low,Electronics,B-1,6.29,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1033,P033,9,Low,Clothing,A-5,6.45,Medium
+1022,P022,19,High,Sports,B-3,4.32,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1018,P018,23,Low,Home Goods,B-3,5.55,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1048,P048,21,Medium,Electronics,C-3,7.75,Medium
+1022,P022,19,High,Sports,B-3,4.32,Small
+10106,P106,20,High,Electronics,C-5,4.08,Large
+1083,P083,15,High,Electronics,A-1,8.01,Large
+1067,P067,16,Low,Clothing,B-2,5.79,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1026,P026,9,Medium,Sports,B-6,2.82,Small
+1057,P057,9,High,Clothing,B-2,7.15,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1089,P089,7,High,Clothing,C-6,1.93,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Small
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1071,P071,22,Low,Clothing,C-3,4.88,Small
+1045,P045,20,High,Clothing,C-3,1.43,Small
+102,P002,13,High,Electronics,A-5,5.42,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+10107,P107,17,Low,Home Goods,C-6,3.05,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1053,P053,5,High,Sports,B-1,6.7,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1084,P084,8,Low,Home Goods,A-4,2.29,Large
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1020,P020,18,Low,Clothing,C-5,3.89,Medium
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+1099,P099,21,Medium,Electronics,B-5,1.11,Medium
+1033,P033,9,Low,Clothing,A-5,6.45,Medium
+103,P003,16,Low,Clothing,B-2,7.51,Large
+10101,P101,7,High,Sports,C-4,6.09,Large
+1022,P022,19,High,Sports,B-3,4.32,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1014,P014,9,High,Home Goods,C-3,5.77,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1053,P053,5,High,Sports,B-1,6.7,Medium
+1029,P029,20,High,Sports,A-6,2.25,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1051,P051,22,Medium,Sports,B-5,2.68,Large
+1044,P044,8,Medium,Home Goods,A-3,7.49,Large
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1096,P096,11,Medium,Electronics,A-6,5.38,Small
+10108,P108,23,High,Electronics,B-4,4.81,Large
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1092,P092,20,Low,Electronics,A-5,5.11,Large
+1019,P019,9,High,Sports,A-1,9.39,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Large
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1084,P084,8,Low,Home Goods,A-4,2.29,Small
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1089,P089,7,High,Clothing,C-6,1.93,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1032,P032,5,High,Sports,C-1,5.26,Large
+101,P001,9,High,Sports,A-5,9.78,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1036,P036,8,Low,Sports,A-2,8.66,Small
+1085,P085,8,High,Electronics,A-4,2.84,Large
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1024,P024,18,Medium,Clothing,B-6,5.94,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1044,P044,8,Medium,Home Goods,A-3,7.49,Large
+1095,P095,21,High,Clothing,C-3,5.86,Small
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+1032,P032,5,High,Sports,C-1,5.26,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+10101,P101,7,High,Sports,C-4,6.09,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+101,P001,9,High,Sports,A-5,9.78,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1085,P085,8,High,Electronics,A-4,2.84,Large
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1040,P040,23,High,Electronics,C-3,9.92,Large
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1083,P083,15,High,Electronics,A-1,8.01,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1064,P064,15,High,Electronics,A-1,6.2,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1026,P026,9,Medium,Sports,B-6,2.82,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1095,P095,21,High,Clothing,C-3,5.86,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1019,P019,9,High,Sports,A-1,9.39,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1051,P051,22,Medium,Sports,B-5,2.68,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Medium
+1022,P022,19,High,Sports,B-3,4.32,Large
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1097,P097,9,High,Home Goods,A-1,4.68,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1043,P043,17,Low,Sports,B-4,9.34,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1030,P030,11,Low,Clothing,A-4,1.02,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Small
+102,P002,13,High,Electronics,A-5,5.42,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1018,P018,23,Low,Home Goods,B-3,5.55,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1062,P062,12,Low,Home Goods,C-5,5.86,Large
+1022,P022,19,High,Sports,B-3,4.32,Large
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1053,P053,5,High,Sports,B-1,6.7,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1075,P075,14,Low,Home Goods,A-2,2.5,Large
+1061,P061,5,Low,Clothing,B-6,6.62,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+103,P003,16,Low,Clothing,B-2,7.51,Medium
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1035,P035,9,Medium,Clothing,B-1,1.96,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1066,P066,17,Low,Electronics,C-6,4.52,Small
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+1052,P052,7,High,Electronics,B-5,3.12,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+10104,P104,21,High,Sports,B-1,8.44,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1024,P024,18,Medium,Clothing,B-6,5.94,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1075,P075,14,Low,Home Goods,A-2,2.5,Small
+10100,P100,17,High,Electronics,B-6,6.39,Small
+1050,P050,16,Medium,Electronics,B-4,8.43,Large
+1094,P094,22,High,Electronics,B-2,5.52,Large
+104,P004,5,High,Home Goods,C-1,8.39,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1096,P096,11,Medium,Electronics,A-6,5.38,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Large
+1029,P029,20,High,Sports,A-6,2.25,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Large
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1022,P022,19,High,Sports,B-3,4.32,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+101,P001,9,High,Sports,A-5,9.78,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Small
+1085,P085,8,High,Electronics,A-4,2.84,Large
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1085,P085,8,High,Electronics,A-4,2.84,Large
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1083,P083,15,High,Electronics,A-1,8.01,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+104,P004,5,High,Home Goods,C-1,8.39,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1021,P021,9,High,Sports,A-6,6.34,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1021,P021,9,High,Sports,A-6,6.34,Medium
+1023,P023,21,Medium,Sports,C-6,5.09,Large
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+103,P003,16,Low,Clothing,B-2,7.51,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+10106,P106,20,High,Electronics,C-5,4.08,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Large
+1045,P045,20,High,Clothing,C-3,1.43,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1031,P031,8,Low,Sports,B-2,2.05,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1051,P051,22,Medium,Sports,B-5,2.68,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1086,P086,14,Low,Clothing,B-3,7.43,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+10101,P101,7,High,Sports,C-4,6.09,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1052,P052,7,High,Electronics,B-5,3.12,Medium
+1029,P029,20,High,Sports,A-6,2.25,Large
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1022,P022,19,High,Sports,B-3,4.32,Large
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+1021,P021,9,High,Sports,A-6,6.34,Small
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1094,P094,22,High,Electronics,B-2,5.52,Large
+10106,P106,20,High,Electronics,C-5,4.08,Medium
+101,P001,9,High,Sports,A-5,9.78,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1061,P061,5,Low,Clothing,B-6,6.62,Medium
+1033,P033,9,Low,Clothing,A-5,6.45,Large
+1097,P097,9,High,Home Goods,A-1,4.68,Large
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1032,P032,5,High,Sports,C-1,5.26,Small
+1045,P045,20,High,Clothing,C-3,1.43,Small
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1050,P050,16,Medium,Electronics,B-4,8.43,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1026,P026,9,Medium,Sports,B-6,2.82,Small
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1022,P022,19,High,Sports,B-3,4.32,Medium
+101,P001,9,High,Sports,A-5,9.78,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1045,P045,20,High,Clothing,C-3,1.43,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Large
+1085,P085,8,High,Electronics,A-4,2.84,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1063,P063,14,High,Sports,A-2,4.95,Small
+1052,P052,7,High,Electronics,B-5,3.12,Small
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1093,P093,8,High,Electronics,B-4,6.44,Small
+10102,P102,13,High,Home Goods,B-3,7.45,Small
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+1010,P010,17,Low,Electronics,A-2,9.71,Large
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+1026,P026,9,Medium,Sports,B-6,2.82,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1050,P050,16,Medium,Electronics,B-4,8.43,Large
+1099,P099,21,Medium,Electronics,B-5,1.11,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Small
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1075,P075,14,Low,Home Goods,A-2,2.5,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1024,P024,18,Medium,Clothing,B-6,5.94,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Medium
+1064,P064,15,High,Electronics,A-1,6.2,Large
+1053,P053,5,High,Sports,B-1,6.7,Medium
+1025,P025,24,Low,Sports,B-2,5.94,Medium
+1086,P086,14,Low,Clothing,B-3,7.43,Large
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Medium
+1036,P036,8,Low,Sports,A-2,8.66,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Small
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1083,P083,15,High,Electronics,A-1,8.01,Large
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1019,P019,9,High,Sports,A-1,9.39,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1095,P095,21,High,Clothing,C-3,5.86,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1048,P048,21,Medium,Electronics,C-3,7.75,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1086,P086,14,Low,Clothing,B-3,7.43,Small
+105,P005,5,Low,Electronics,A-6,7.47,Small
+1047,P047,6,High,Electronics,A-2,8.45,Small
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1052,P052,7,High,Electronics,B-5,3.12,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1030,P030,11,Low,Clothing,A-4,1.02,Large
+1034,P034,14,Low,Sports,B-1,8.15,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1050,P050,16,Medium,Electronics,B-4,8.43,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1035,P035,9,Medium,Clothing,B-1,1.96,Small
+101,P001,9,High,Sports,A-5,9.78,Large
+101,P001,9,High,Sports,A-5,9.78,Large
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1082,P082,17,Medium,Home Goods,B-6,7.36,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Medium
+1083,P083,15,High,Electronics,A-1,8.01,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1041,P041,5,High,Electronics,C-1,2.85,Small
+10103,P103,21,Low,Clothing,B-6,6.39,Small
+1053,P053,5,High,Sports,B-1,6.7,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1036,P036,8,Low,Sports,A-2,8.66,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1075,P075,14,Low,Home Goods,A-2,2.5,Medium
+1037,P037,6,High,Clothing,B-5,7.71,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1064,P064,15,High,Electronics,A-1,6.2,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1062,P062,12,Low,Home Goods,C-5,5.86,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+10100,P100,17,High,Electronics,B-6,6.39,Medium
+1047,P047,6,High,Electronics,A-2,8.45,Large
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+1095,P095,21,High,Clothing,C-3,5.86,Medium
+10102,P102,13,High,Home Goods,B-3,7.45,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1049,P049,24,Low,Electronics,A-5,8.2,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1049,P049,24,Low,Electronics,A-5,8.2,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1066,P066,17,Low,Electronics,C-6,4.52,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+102,P002,13,High,Electronics,A-5,5.42,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1054,P054,5,High,Sports,A-1,9.17,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1058,P058,16,High,Home Goods,A-3,5.07,Large
+1075,P075,14,Low,Home Goods,A-2,2.5,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1066,P066,17,Low,Electronics,C-6,4.52,Large
+1051,P051,22,Medium,Sports,B-5,2.68,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1083,P083,15,High,Electronics,A-1,8.01,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1018,P018,23,Low,Home Goods,B-3,5.55,Medium
+1024,P024,18,Medium,Clothing,B-6,5.94,Small
+10103,P103,21,Low,Clothing,B-6,6.39,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1078,P078,13,High,Clothing,C-1,7.67,Large
+10100,P100,17,High,Electronics,B-6,6.39,Medium
+10101,P101,7,High,Sports,C-4,6.09,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+1083,P083,15,High,Electronics,A-1,8.01,Large
+1015,P015,7,Low,Sports,B-4,7.37,Medium
+1035,P035,9,Medium,Clothing,B-1,1.96,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1064,P064,15,High,Electronics,A-1,6.2,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1063,P063,14,High,Sports,A-2,4.95,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1058,P058,16,High,Home Goods,A-3,5.07,Small
+1032,P032,5,High,Sports,C-1,5.26,Small
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+102,P002,13,High,Electronics,A-5,5.42,Large
+1059,P059,7,Medium,Electronics,A-2,7.42,Large
+1053,P053,5,High,Sports,B-1,6.7,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1089,P089,7,High,Clothing,C-6,1.93,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1032,P032,5,High,Sports,C-1,5.26,Small
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1040,P040,23,High,Electronics,C-3,9.92,Large
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Large
+1053,P053,5,High,Sports,B-1,6.7,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+1078,P078,13,High,Clothing,C-1,7.67,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1063,P063,14,High,Sports,A-2,4.95,Small
+1083,P083,15,High,Electronics,A-1,8.01,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1020,P020,18,Low,Clothing,C-5,3.89,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
+1012,P012,20,High,Clothing,B-2,2.8,Large
+1042,P042,9,Medium,Sports,C-3,4.41,Large
+1099,P099,21,Medium,Electronics,B-5,1.11,Medium
+1036,P036,8,Low,Sports,A-2,8.66,Large
+10101,P101,7,High,Sports,C-4,6.09,Large
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1025,P025,24,Low,Sports,B-2,5.94,Large
+1067,P067,16,Low,Clothing,B-2,5.79,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1031,P031,8,Low,Sports,B-2,2.05,Large
+10100,P100,17,High,Electronics,B-6,6.39,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1018,P018,23,Low,Home Goods,B-3,5.55,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1066,P066,17,Low,Electronics,C-6,4.52,Medium
+102,P002,13,High,Electronics,A-5,5.42,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1094,P094,22,High,Electronics,B-2,5.52,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1046,P046,20,Medium,Home Goods,A-2,8.03,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Small
+1061,P061,5,Low,Clothing,B-6,6.62,Small
+1067,P067,16,Low,Clothing,B-2,5.79,Large
+1015,P015,7,Low,Sports,B-4,7.37,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1021,P021,9,High,Sports,A-6,6.34,Large
+1029,P029,20,High,Sports,A-6,2.25,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+10107,P107,17,Low,Home Goods,C-6,3.05,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Small
+101,P001,9,High,Sports,A-5,9.78,Small
+1085,P085,8,High,Electronics,A-4,2.84,Large
+102,P002,13,High,Electronics,A-5,5.42,Large
+1028,P028,20,Medium,Electronics,C-2,1.79,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1064,P064,15,High,Electronics,A-1,6.2,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1069,P069,6,Medium,Sports,B-5,3.06,Large
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Small
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Small
+108,P008,20,Low,Home Goods,A-5,8.55,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1053,P053,5,High,Sports,B-1,6.7,Large
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+109,P009,12,Medium,Home Goods,B-1,2.85,Large
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Large
+102,P002,13,High,Electronics,A-5,5.42,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1088,P088,13,Low,Electronics,B-4,7.79,Medium
+1087,P087,9,High,Home Goods,A-5,5.45,Small
+109,P009,12,Medium,Home Goods,B-1,2.85,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1026,P026,9,Medium,Sports,B-6,2.82,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+1082,P082,17,Medium,Home Goods,B-6,7.36,Small
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1047,P047,6,High,Electronics,A-2,8.45,Small
+101,P001,9,High,Sports,A-5,9.78,Small
+1094,P094,22,High,Electronics,B-2,5.52,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+1088,P088,13,Low,Electronics,B-4,7.79,Large
+1050,P050,16,Medium,Electronics,B-4,8.43,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Medium
+1013,P013,11,Low,Clothing,B-6,7.63,Medium
+1026,P026,9,Medium,Sports,B-6,2.82,Large
+109,P009,12,Medium,Home Goods,B-1,2.85,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Large
+1014,P014,9,High,Home Goods,C-3,5.77,Large
+10102,P102,13,High,Home Goods,B-3,7.45,Large
+1050,P050,16,Medium,Electronics,B-4,8.43,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+102,P002,13,High,Electronics,A-5,5.42,Small
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+1097,P097,9,High,Home Goods,A-1,4.68,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+104,P004,5,High,Home Goods,C-1,8.39,Medium
+1081,P081,22,Medium,Sports,A-6,7.77,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Large
+10107,P107,17,Low,Home Goods,C-6,3.05,Large
+1029,P029,20,High,Sports,A-6,2.25,Small
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1040,P040,23,High,Electronics,C-3,9.92,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Small
+1094,P094,22,High,Electronics,B-2,5.52,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1083,P083,15,High,Electronics,A-1,8.01,Large
+1061,P061,5,Low,Clothing,B-6,6.62,Small
+1036,P036,8,Low,Sports,A-2,8.66,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1042,P042,9,Medium,Sports,C-3,4.41,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+1041,P041,5,High,Electronics,C-1,2.85,Large
+104,P004,5,High,Home Goods,C-1,8.39,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1086,P086,14,Low,Clothing,B-3,7.43,Small
+10101,P101,7,High,Sports,C-4,6.09,Small
+1043,P043,17,Low,Sports,B-4,9.34,Medium
+108,P008,20,Low,Home Goods,A-5,8.55,Medium
+1085,P085,8,High,Electronics,A-4,2.84,Large
+1045,P045,20,High,Clothing,C-3,1.43,Large
+1068,P068,18,High,Clothing,C-6,1.6,Medium
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+1099,P099,21,Medium,Electronics,B-5,1.11,Large
+10103,P103,21,Low,Clothing,B-6,6.39,Small
+102,P002,13,High,Electronics,A-5,5.42,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Small
+10108,P108,23,High,Electronics,B-4,4.81,Large
+1045,P045,20,High,Clothing,C-3,1.43,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Small
+1092,P092,20,Low,Electronics,A-5,5.11,Small
+1083,P083,15,High,Electronics,A-1,8.01,Large
+1032,P032,5,High,Sports,C-1,5.26,Small
+1032,P032,5,High,Sports,C-1,5.26,Large
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Large
+107,P007,6,Low,Clothing,A-3,5.29,Small
+10108,P108,23,High,Electronics,B-4,4.81,Large
+101,P001,9,High,Sports,A-5,9.78,Large
+1056,P056,15,Low,Electronics,B-1,6.29,Medium
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+1097,P097,9,High,Home Goods,A-1,4.68,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Small
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1031,P031,8,Low,Sports,B-2,2.05,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1036,P036,8,Low,Sports,A-2,8.66,Large
+1085,P085,8,High,Electronics,A-4,2.84,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Large
+1019,P019,9,High,Sports,A-1,9.39,Medium
+1051,P051,22,Medium,Sports,B-5,2.68,Small
+10103,P103,21,Low,Clothing,B-6,6.39,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1069,P069,6,Medium,Sports,B-5,3.06,Large
+1092,P092,20,Low,Electronics,A-5,5.11,Large
+1017,P017,20,High,Electronics,A-6,1.79,Medium
+1093,P093,8,High,Electronics,B-4,6.44,Large
+1081,P081,22,Medium,Sports,A-6,7.77,Small
+1026,P026,9,Medium,Sports,B-6,2.82,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1046,P046,20,Medium,Home Goods,A-2,8.03,Small
+1063,P063,14,High,Sports,A-2,4.95,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1056,P056,15,Low,Electronics,B-1,6.29,Medium
+1056,P056,15,Low,Electronics,B-1,6.29,Medium
+1021,P021,9,High,Sports,A-6,6.34,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Medium
+1091,P091,7,High,Home Goods,C-2,4.41,Small
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1095,P095,21,High,Clothing,C-3,5.86,Small
+1082,P082,17,Medium,Home Goods,B-6,7.36,Large
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1024,P024,18,Medium,Clothing,B-6,5.94,Small
+104,P004,5,High,Home Goods,C-1,8.39,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Small
+1089,P089,7,High,Clothing,C-6,1.93,Large
+1027,P027,16,Low,Sports,C-3,7.16,Large
+1052,P052,7,High,Electronics,B-5,3.12,Large
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1059,P059,7,Medium,Electronics,A-2,7.42,Small
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1038,P038,24,Medium,Sports,B-5,4.68,Medium
+1061,P061,5,Low,Clothing,B-6,6.62,Medium
+1045,P045,20,High,Clothing,C-3,1.43,Large
+1047,P047,6,High,Electronics,A-2,8.45,Large
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1015,P015,7,Low,Sports,B-4,7.37,Small
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1063,P063,14,High,Sports,A-2,4.95,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1050,P050,16,Medium,Electronics,B-4,8.43,Small
+1032,P032,5,High,Sports,C-1,5.26,Small
+1076,P076,6,Medium,Sports,B-6,8.91,Large
+1043,P043,17,Low,Sports,B-4,9.34,Small
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+1030,P030,11,Low,Clothing,A-4,1.02,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Medium
+102,P002,13,High,Electronics,A-5,5.42,Large
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1075,P075,14,Low,Home Goods,A-2,2.5,Small
+1078,P078,13,High,Clothing,C-1,7.67,Small
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+106,P006,19,Medium,Electronics,A-6,5.82,Medium
+1041,P041,5,High,Electronics,C-1,2.85,Medium
+1061,P061,5,Low,Clothing,B-6,6.62,Large
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Small
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1043,P043,17,Low,Sports,B-4,9.34,Large
+1098,P098,16,Medium,Home Goods,A-5,7.95,Large
+1062,P062,12,Low,Home Goods,C-5,5.86,Large
+10109,P109,21,Low,Clothing,C-4,3.59,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Medium
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+109,P009,12,Medium,Home Goods,B-1,2.85,Medium
+1099,P099,21,Medium,Electronics,B-5,1.11,Medium
+1044,P044,8,Medium,Home Goods,A-3,7.49,Medium
+106,P006,19,Medium,Electronics,A-6,5.82,Small
+1064,P064,15,High,Electronics,A-1,6.2,Small
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1070,P070,23,Low,Clothing,B-6,5.89,Small
+1074,P074,12,Low,Electronics,C-4,7.24,Medium
+1019,P019,9,High,Sports,A-1,9.39,Large
+1032,P032,5,High,Sports,C-1,5.26,Medium
+1021,P021,9,High,Sports,A-6,6.34,Large
+1040,P040,23,High,Electronics,C-3,9.92,Medium
+1083,P083,15,High,Electronics,A-1,8.01,Large
+10101,P101,7,High,Sports,C-4,6.09,Large
+1041,P041,5,High,Electronics,C-1,2.85,Large
+1043,P043,17,Low,Sports,B-4,9.34,Small
+1036,P036,8,Low,Sports,A-2,8.66,Medium
+102,P002,13,High,Electronics,A-5,5.42,Medium
+1061,P061,5,Low,Clothing,B-6,6.62,Medium
+1080,P080,8,Medium,Clothing,B-1,9.98,Medium
+1063,P063,14,High,Sports,A-2,4.95,Small
+1020,P020,18,Low,Clothing,C-5,3.89,Large
+1097,P097,9,High,Home Goods,A-1,4.68,Large
+1028,P028,20,Medium,Electronics,C-2,1.79,Medium
+1029,P029,20,High,Sports,A-6,2.25,Small
+1070,P070,23,Low,Clothing,B-6,5.89,Medium
+1076,P076,6,Medium,Sports,B-6,8.91,Medium
+1019,P019,9,High,Sports,A-1,9.39,Medium
+1073,P073,21,Medium,Electronics,C-6,7.57,Large
+1078,P078,13,High,Clothing,C-1,7.67,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Small
+1091,P091,7,High,Home Goods,C-2,4.41,Medium
+10108,P108,23,High,Electronics,B-4,4.81,Medium
+1029,P029,20,High,Sports,A-6,2.25,Medium
+1098,P098,16,Medium,Home Goods,A-5,7.95,Small
+1042,P042,9,Medium,Sports,C-3,4.41,Small
+1038,P038,24,Medium,Sports,B-5,4.68,Small
+1028,P028,20,Medium,Electronics,C-2,1.79,Small
+1022,P022,19,High,Sports,B-3,4.32,Small
+1030,P030,11,Low,Clothing,A-4,1.02,Medium
